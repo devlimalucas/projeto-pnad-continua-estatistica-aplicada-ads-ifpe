@@ -35,7 +35,7 @@ Este projeto automatiza o download, processamento e armazenamento dos microdados
 ## 🚀 Como rodar <br>
 
 1. Clone este repositório: <br><br>
-   git clone <url-do-repo> <br>
+   git clone (url-do-repo) <br>
    cd projeto-pnad-continua <br><br>
 
 2. Instale as dependências (se necessário, crie um ambiente virtual): <br><br>
