@@ -1,0 +1,25 @@
+# Diretório de downloads da PNAD
+banco_pnadc_pr_es/
+
+
+# Arquivos CSV gerados
+pnadc_es.csv
+pnadc_pr.csv
+
+# Arquivos ZIP baixados
+*.zip
+
+# Arquivos temporários e cache
+*.log
+*.tmp
+*.swp
+__pycache__/
+*.pyc
+
+# Ambiente virtual Python
+venv/
+.env/
+
+# Configurações locais
+.DS_Store
+Thumbs.db
